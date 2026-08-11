@@ -1,0 +1,9 @@
+{
+  "name": "sailor-tales-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sailor Tales — site statique + fonction Stripe Checkout",
+  "dependencies": {
+    "stripe": "^17.4.0"
+  }
+}
